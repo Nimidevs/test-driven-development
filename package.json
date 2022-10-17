@@ -1,0 +1,23 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "test driven development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimidevs/test-driven-development.git"
+  },
+  "author": "NimiDevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimidevs/test-driven-development/issues"
+  },
+  "homepage": "https://github.com/Nimidevs/test-driven-development#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4",
+    "jest": "^29.2.0"
+  }
+}
